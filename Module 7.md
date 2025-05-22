@@ -49,7 +49,10 @@ int main() {
 
 Output:
 
-![Screenshot 2025-05-22 134557](https://github.com/user-attachments/assets/b4e8b71f-3381-450f-8e60-f9a060a795c5)
+
+
+![Screenshot 2025-05-22 145618](https://github.com/user-attachments/assets/9fa20705-05a6-4efc-817e-3a9df1ea8024)
+
 
 
 Result:
@@ -101,7 +104,8 @@ int main() {
 
 Output:
 
-![Screenshot 2025-05-22 134700](https://github.com/user-attachments/assets/e041c537-3b68-4b4c-9db6-1dbd21f7f1d0)
+
+![Screenshot 2025-05-22 145806](https://github.com/user-attachments/assets/5560aaff-b5e5-472c-b8e4-75ad2d10e1be)
 
 
 
@@ -165,7 +169,8 @@ int main() {
 Output:
 
 
-![Screenshot 2025-05-22 135130](https://github.com/user-attachments/assets/648526d0-50b5-49bb-8296-f5b371d5e6f7)
+![Screenshot 2025-05-22 145900](https://github.com/user-attachments/assets/5643ceec-d293-4daf-912a-489ed729a08a)
+
 
 
 Result:
